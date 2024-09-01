@@ -44,11 +44,11 @@ Business Insight: The most popular stations could be ideal locations for targete
 These metrics can be used to guide Cyclistic's marketing strategies, customer segmentation, and operational planning to increase annual memberships and improve overall service.
 
 # Insights Summary
+Highlight exclusive benefits such as member-only events, priority access, or special discounts to encourage casual riders to convert to annual memberships & loyalty programs or rewards for members who use the service frequently during weekdays.
 
+Implement targeted marketing campaigns around Top Stations to further increase engagement. Implement station-specific enhancements during the evenings, such as additional amenities, events, or promotions.
 
-
-
-
+I used Python to process the data and create visualizations for this case study.
 
 
 
