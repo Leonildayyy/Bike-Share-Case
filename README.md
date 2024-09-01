@@ -1,9 +1,11 @@
 # Bike share case study
 
-Introduction
+#Introduction#
+
 This project utilizes a dataset from Cyclistic, a bike-share company in Chicago. The marketing director believes that the company's future success hinges on maximizing the number of annual memberships. Thus, it is crucial to gain insights into the differing usage patterns of casual riders and annual members of Cyclistic bikes. These insights will be used by the marketing team to develop new strategies aimed at converting casual riders into annual members. The data can be found on Kaggle https://www.kaggle.com/code/dsnerd00/cyclistic-bike-share/input.
 
-Data Overview
+#Data Overview#
+
 ride_id: It is a distinct identifier assigned to each individual ride.
 rideable_type: This column indicates the type of bikes used for each ride. 
 started_at: This column denotes the timestamp when a particular ride began.
@@ -18,7 +20,8 @@ end_lat: This column denotes the latitude coordinate of the ending point of the 
 end_lng: This column denotes the longitude coordinate of the ending point of the bike ride.
 member_casual: This column indicates whether the rider is a member or a casual user.
 
-Business Metrics
+#Business Metrics#
+
 1. Ride Frequency by User Type (Weekly Patterns)
 Metric: Number of rides per weekday for casual riders vs. members.
 Business Insight: Understanding the day-of-week usage patterns can help tailor marketing strategies. For example, if casual riders are more active on weekends, promotions or discounts could be offered to convert them into members during those peak times.
@@ -39,6 +42,8 @@ Metric: Most popular starting and ending stations based on ride frequency.
 Business Insight: The most popular stations could be ideal locations for targeted advertising, promotional activities, or infrastructure improvements to enhance user experience. These stations might also be the best places to push for membership sign-ups.
 
 These metrics can be used to guide Cyclistic's marketing strategies, customer segmentation, and operational planning to increase annual memberships and improve overall service.
+
+#Insights Summary#
 
 
 
